@@ -128,8 +128,8 @@
    "filterable": 0
   },
   {
-   "key": "极速资源",
-   "name": "极速资源",
+   "key": "影视极速直连",
+   "name": "影视 • 极速[直连]",
    "type": 1,
    "api": "https://jszyapi.com/api.php/provide/vod",
    "searchable": 1,
@@ -137,19 +137,28 @@
    "filterable": 0
   },
   {
-   "key": "火狐秒播",
-   "name": "火狐┃秒播",
+   "key": "新浪",
+   "name": "新浪",
    "type": 1,
-   "api": "https://hhzyapi.com/api.php/provide/vod",
+   "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0
   },
   {
-   "key": "红牛资源",
-   "name": "红牛资源",
+   "key": "红牛",
+   "name": "红牛",
    "type": 1,
    "api": "https://hongniuzy2.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+  {
+   "key": "豪华资源",
+   "name": "豪华资源",
+   "type": 1,
+   "api": "https://hhzyapi.com/api.php/provide/vod",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0
@@ -200,8 +209,8 @@
    "filterable": 0
   },
   {
-   "key": "360资源",
-   "name": "360资源",
+   "key": "360",
+   "name": "360",
    "type": 1,
    "api": "https://360zy.com/api.php/provide/vod",
    "searchable": 1,
@@ -292,5 +301,5 @@
  "flags": [],
  "spider": "",
  "logo": "",
- "version": "202611041845"
+ "version": "202611050531"
 }
