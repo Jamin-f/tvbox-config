@@ -1,6 +1,6 @@
 {
-  "synced_at": "2026-11-04 15:57:09 CST",
-  "version": "202611041551",
+  "synced_at": "2026-11-04 16:16:49 CST",
+  "version": "2026110416161",
   "sites": 32,
   "source": "NAS trim-a22c / 192.168.1.194",
   "channels": [
