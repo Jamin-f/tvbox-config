@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-11-04 11:41:13 CST",
+  "synced_at": "2026-11-04 11:55:17 CST",
   "version": "202611041124",
   "sites": 56,
   "source": "NAS trim-a22c / 192.168.1.194",
