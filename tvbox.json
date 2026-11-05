@@ -92,6 +92,15 @@
    "filterable": 0
   },
   {
+   "key": "haihua",
+   "name": "haihua",
+   "type": 1,
+   "api": "https://hhzyapi.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+  {
    "key": "hongniu3",
    "name": "hongniu3",
    "type": 1,
@@ -128,15 +137,6 @@
    "filterable": 0
   },
   {
-   "key": "影视极速直连",
-   "name": "影视 • 极速[直连]",
-   "type": 1,
-   "api": "https://jszyapi.com/api.php/provide/vod",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0
-  },
-  {
    "key": "新浪",
    "name": "新浪",
    "type": 1,
@@ -146,19 +146,19 @@
    "filterable": 0
   },
   {
-   "key": "红牛",
-   "name": "红牛",
+   "key": "极速资源",
+   "name": "极速资源",
    "type": 1,
-   "api": "https://hongniuzy2.com/api.php/provide/vod",
+   "api": "https://jszyapi.com/api.php/provide/vod",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0
   },
   {
-   "key": "豪华资源",
-   "name": "豪华资源",
+   "key": "红牛资源",
+   "name": "红牛资源",
    "type": 1,
-   "api": "https://hhzyapi.com/api.php/provide/vod",
+   "api": "https://hongniuzy2.com/api.php/provide/vod",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0
@@ -186,15 +186,6 @@
    "name": "非凡资源",
    "type": 1,
    "api": "http://ffzy1.tv/api.php/provide/vod",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0
-  },
-  {
-   "key": "优质",
-   "name": "优质",
-   "type": 1,
-   "api": "https://api.yyzy-tv.vip/inc/apijson.php",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0
@@ -254,15 +245,6 @@
    "filterable": 0
   },
   {
-   "key": "dbzy",
-   "name": "dbzy",
-   "type": 1,
-   "api": "https://dbzy.tv/api.php/provide/vod",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0
-  },
-  {
    "key": "pt",
    "name": "pt",
    "type": 1,
@@ -301,5 +283,5 @@
  "flags": [],
  "spider": "",
  "logo": "",
- "version": "202611050531"
+ "version": "202611060531"
 }
