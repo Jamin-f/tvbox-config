@@ -2,15 +2,6 @@
  "wallpaper": "",
  "sites": [
   {
-   "key": "创享",
-   "name": "创享",
-   "type": 1,
-   "api": "https://ys.cxkjg.cn/api/provide/vod",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0
-  },
-  {
    "key": "baofeng2",
    "name": "baofeng2",
    "type": 1,
@@ -92,15 +83,6 @@
    "filterable": 0
   },
   {
-   "key": "haihua",
-   "name": "haihua",
-   "type": 1,
-   "api": "https://hhzyapi.com/api.php/provide/vod",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0
-  },
-  {
    "key": "hongniu3",
    "name": "hongniu3",
    "type": 1,
@@ -137,6 +119,15 @@
    "filterable": 0
   },
   {
+   "key": "创享",
+   "name": "创享",
+   "type": 1,
+   "api": "https://ys.cxkjg.cn/api/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+  {
    "key": "新浪",
    "name": "新浪",
    "type": 1,
@@ -150,6 +141,15 @@
    "name": "极速资源",
    "type": 1,
    "api": "https://jszyapi.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+  {
+   "key": "火狐2K有广",
+   "name": "火狐2K┃有广",
+   "type": 1,
+   "api": "https://hhzyapi.com/api.php/provide/vod",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0
@@ -186,6 +186,15 @@
    "name": "非凡资源",
    "type": 1,
    "api": "http://ffzy1.tv/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+  {
+   "key": "优质",
+   "name": "优质",
+   "type": 1,
+   "api": "https://api.yyzy-tv.vip/inc/apijson.php",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0
@@ -283,5 +292,5 @@
  "flags": [],
  "spider": "",
  "logo": "",
- "version": "202611060531"
+ "version": "202611070532"
 }
