@@ -2,6 +2,15 @@
  "wallpaper": "",
  "sites": [
   {
+   "key": "创享",
+   "name": "创享",
+   "type": 1,
+   "api": "https://ys.cxkjg.cn/api/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+  {
    "key": "baofeng2",
    "name": "baofeng2",
    "type": 1,
@@ -56,15 +65,6 @@
    "filterable": 0
   },
   {
-   "key": "feifan",
-   "name": "feifan",
-   "type": 1,
-   "api": "http://ffzy5.tv/api.php/provide/vod",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0
-  },
-  {
    "key": "feifanapi",
    "name": "feifanapi",
    "type": 1,
@@ -110,19 +110,10 @@
    "filterable": 0
   },
   {
-   "key": "光速资源",
-   "name": "光速资源",
+   "key": "光速资源2",
+   "name": "光速资源2",
    "type": 1,
    "api": "https://api.guangsuapi.com/api.php/provide/vod",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0
-  },
-  {
-   "key": "创享",
-   "name": "创享",
-   "type": 1,
-   "api": "https://ys.cxkjg.cn/api/provide/vod",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0
@@ -146,8 +137,26 @@
    "filterable": 0
   },
   {
-   "key": "火狐2K有广",
-   "name": "火狐2K┃有广",
+   "key": "红牛",
+   "name": "红牛",
+   "type": 1,
+   "api": "https://hongniuzy2.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+  {
+   "key": "虎牙资源站",
+   "name": "虎牙资源站",
+   "type": 1,
+   "api": "https://huyazy.net/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+  {
+   "key": "豪华资源",
+   "name": "豪华资源",
    "type": 1,
    "api": "https://hhzyapi.com/api.php/provide/vod",
    "searchable": 1,
@@ -155,10 +164,10 @@
    "filterable": 0
   },
   {
-   "key": "红牛资源",
-   "name": "红牛资源",
+   "key": "豪华资源站",
+   "name": "豪华资源站",
    "type": 1,
-   "api": "https://hongniuzy2.com/api.php/provide/vod",
+   "api": "https://haohuazy.com/api.php/provide/vod",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0
@@ -168,6 +177,15 @@
    "name": "速播",
    "type": 1,
    "api": "https://subocaiji.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+  {
+   "key": "速播资源站",
+   "name": "速播资源站",
+   "type": 1,
+   "api": "https://subocj.com/api.php/provide/vod",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0
@@ -191,6 +209,15 @@
    "filterable": 0
   },
   {
+   "key": "非凡资源站",
+   "name": "非凡资源站",
+   "type": 1,
+   "api": "https://ffzy5.tv/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+  {
    "key": "优质",
    "name": "优质",
    "type": 1,
@@ -209,8 +236,8 @@
    "filterable": 0
   },
   {
-   "key": "360",
-   "name": "360",
+   "key": "360资源",
+   "name": "360资源",
    "type": 1,
    "api": "https://360zy.com/api.php/provide/vod",
    "searchable": 1,
@@ -261,24 +288,6 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0
-  },
-  {
-   "key": "茅台",
-   "name": "茅台",
-   "type": 1,
-   "api": "https://mtzy.me/api.php/provide/vod",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0
-  },
-  {
-   "key": "茅台资源",
-   "name": "茅台资源",
-   "type": 1,
-   "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0
   }
  ],
  "lives": [
@@ -292,5 +301,5 @@
  "flags": [],
  "spider": "",
  "logo": "",
- "version": "202611070532"
+ "version": "202611080532"
 }
