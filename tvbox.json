@@ -47,8 +47,8 @@
    "filterable": 0
   },
   {
-   "key": "量子资源ok线路1",
-   "name": "量子┃资源·ok线路1",
+   "key": "量子资源",
+   "name": "量子┃资源",
    "type": 1,
    "api": "https://lzizy1.com/api.php/provide/vod",
    "searchable": 1,
@@ -60,6 +60,15 @@
    "name": "巨量",
    "type": 1,
    "api": "https://api.juliang.live/api/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+  {
+   "key": "feifan",
+   "name": "feifan",
+   "type": 1,
+   "api": "http://ffzy5.tv/api.php/provide/vod",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0
@@ -78,6 +87,15 @@
    "name": "feifancj2",
    "type": 1,
    "api": "https://cj.ffzyapi.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+  {
+   "key": "haihua",
+   "name": "haihua",
+   "type": 1,
+   "api": "https://hhzyapi.com/api.php/provide/vod",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0
@@ -137,8 +155,8 @@
    "filterable": 0
   },
   {
-   "key": "红牛",
-   "name": "红牛",
+   "key": "红牛资源",
+   "name": "红牛资源",
    "type": 1,
    "api": "https://hongniuzy2.com/api.php/provide/vod",
    "searchable": 1,
@@ -150,15 +168,6 @@
    "name": "虎牙资源站",
    "type": 1,
    "api": "https://huyazy.net/api.php/provide/vod",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0
-  },
-  {
-   "key": "豪华资源",
-   "name": "豪华资源",
-   "type": 1,
-   "api": "https://hhzyapi.com/api.php/provide/vod",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0
@@ -209,15 +218,6 @@
    "filterable": 0
   },
   {
-   "key": "非凡资源站",
-   "name": "非凡资源站",
-   "type": 1,
-   "api": "https://ffzy5.tv/api.php/provide/vod",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0
-  },
-  {
    "key": "优质",
    "name": "优质",
    "type": 1,
@@ -236,8 +236,8 @@
    "filterable": 0
   },
   {
-   "key": "360资源",
-   "name": "360资源",
+   "key": "360",
+   "name": "360",
    "type": 1,
    "api": "https://360zy.com/api.php/provide/vod",
    "searchable": 1,
@@ -301,5 +301,5 @@
  "flags": [],
  "spider": "",
  "logo": "",
- "version": "202611080532"
+ "version": "202611090532"
 }
