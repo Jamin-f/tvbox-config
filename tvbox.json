@@ -92,15 +92,6 @@
    "filterable": 0
   },
   {
-   "key": "haihua",
-   "name": "haihua",
-   "type": 1,
-   "api": "https://hhzyapi.com/api.php/provide/vod",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0
-  },
-  {
    "key": "hongniu3",
    "name": "hongniu3",
    "type": 1,
@@ -128,8 +119,8 @@
    "filterable": 0
   },
   {
-   "key": "光速资源2",
-   "name": "光速资源2",
+   "key": "光速资源",
+   "name": "光速资源",
    "type": 1,
    "api": "https://api.guangsuapi.com/api.php/provide/vod",
    "searchable": 1,
@@ -146,10 +137,19 @@
    "filterable": 0
   },
   {
-   "key": "极速资源",
-   "name": "极速资源",
+   "key": "极速",
+   "name": "极速",
    "type": 1,
    "api": "https://jszyapi.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+  {
+   "key": "火狐2K有广",
+   "name": "火狐2K┃有广",
+   "type": 1,
+   "api": "https://hhzyapi.com/api.php/provide/vod",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0
@@ -301,5 +301,5 @@
  "flags": [],
  "spider": "",
  "logo": "",
- "version": "202611090532"
+ "version": "202611100532"
 }
