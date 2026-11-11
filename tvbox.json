@@ -2,10 +2,10 @@
  "wallpaper": "",
  "sites": [
   {
-   "key": "创享",
-   "name": "创享",
+   "key": "暴風",
+   "name": "暴風",
    "type": 1,
-   "api": "https://ys.cxkjg.cn/api/provide/vod",
+   "api": "https://bfzyapi.com/api.php/provide/vod",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0
@@ -92,19 +92,10 @@
    "filterable": 0
   },
   {
-   "key": "暴風",
-   "name": "暴風",
-   "type": 1,
-   "api": "https://bfzyapi.com/api.php/provide/vod",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0
-  },
-  {
    "key": "暴风资源2",
    "name": "暴风资源2",
    "type": 1,
-   "api": "https://bf.xoxowin86cisyap.com/api.php/provide/vod",
+   "api": "http://bf.xoxowin86cisyap.com/api.php/provide/vod",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0
@@ -218,6 +209,42 @@
    "filterable": 0
   },
   {
+   "key": "jiangyu",
+   "name": "jiangyu",
+   "type": 1,
+   "api": "https://jyzyapi.com/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+  {
+   "key": "jinying",
+   "name": "jinying",
+   "type": 1,
+   "api": "https://jinyingzy.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+  {
+   "key": "光速资源",
+   "name": "光速资源",
+   "type": 1,
+   "api": "https://api.guangsuapi.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+  {
+   "key": "创享",
+   "name": "创享",
+   "type": 1,
+   "api": "https://ys.cxkjg.cn/api/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+  {
    "key": "新浪",
    "name": "新浪",
    "type": 1,
@@ -236,8 +263,17 @@
    "filterable": 0
   },
   {
-   "key": "红牛资源",
-   "name": "红牛资源",
+   "key": "极速资源2",
+   "name": "极速资源2",
+   "type": 1,
+   "api": "https://jisuzy.tv/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+  {
+   "key": "红牛",
+   "name": "红牛",
    "type": 1,
    "api": "https://hongniuzy2.com/api.php/provide/vod",
    "searchable": 1,
@@ -249,6 +285,15 @@
    "name": "虎牙资源站",
    "type": 1,
    "api": "https://huyazy.net/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+  {
+   "key": "豪华资源",
+   "name": "豪华资源",
+   "type": 1,
+   "api": "https://hhzyapi.com/api.php/provide/vod",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0
@@ -398,19 +443,10 @@
    "filterable": 0
   },
   {
-   "key": "jiangyu",
-   "name": "jiangyu",
+   "key": "cdn09022024gitlink",
+   "name": "cdn09022024.gi",
    "type": 1,
-   "api": "https://jyzyapi.com/provide/vod",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0
-  },
-  {
-   "key": "jinying",
-   "name": "jinying",
-   "type": 1,
-   "api": "https://jinyingzy.com/api.php/provide/vod",
+   "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/xxooo/in/raw/in.bmp\">",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0
@@ -425,19 +461,19 @@
    "filterable": 0
   },
   {
-   "key": "光速资源2",
-   "name": "光速资源2",
+   "key": "大师兄影视",
+   "name": "大师兄影视",
    "type": 1,
-   "api": "https://api.guangsuapi.com/api.php/provide/vod",
+   "api": "https://zhouyu86-bh1.pages.dev/api.php/provide/vod",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0
   },
   {
-   "key": "火狐2K有广",
-   "name": "火狐2K┃有广",
+   "key": "极速零一",
+   "name": "极速┃零一",
    "type": 1,
-   "api": "https://hhzyapi.com/api.php/provide/vod",
+   "api": "https://ww96.taiee.xyz/api.php/provide/vod",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0
@@ -454,5 +490,5 @@
  "flags": [],
  "spider": "",
  "logo": "",
- "version": "202611110533"
+ "version": "202611120533"
 }
