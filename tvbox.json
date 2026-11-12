@@ -128,6 +128,15 @@
    "filterable": 0
   },
   {
+   "key": "量子资源2",
+   "name": "量子资源",
+   "type": 1,
+   "api": "https://cj.lzcaiji.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+  {
    "key": "dd资源",
    "name": "dd资源",
    "type": 1,
@@ -209,15 +218,6 @@
    "filterable": 0
   },
   {
-   "key": "jiangyu",
-   "name": "jiangyu",
-   "type": 1,
-   "api": "https://jyzyapi.com/provide/vod",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0
-  },
-  {
    "key": "jinying",
    "name": "jinying",
    "type": 1,
@@ -272,6 +272,15 @@
    "filterable": 0
   },
   {
+   "key": "火狐2K有广",
+   "name": "火狐2K┃有广",
+   "type": 1,
+   "api": "https://hhzyapi.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+  {
    "key": "红牛",
    "name": "红牛",
    "type": 1,
@@ -285,15 +294,6 @@
    "name": "虎牙资源站",
    "type": 1,
    "api": "https://huyazy.net/api.php/provide/vod",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0
-  },
-  {
-   "key": "豪华资源",
-   "name": "豪华资源",
-   "type": 1,
-   "api": "https://hhzyapi.com/api.php/provide/vod",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0
@@ -321,6 +321,15 @@
    "name": "速播资源站",
    "type": 1,
    "api": "https://subocj.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+  {
+   "key": "金鹰资源",
+   "name": "金鹰资源",
+   "type": 1,
+   "api": "https://jyzyapi.com/provide/vod",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0
@@ -461,6 +470,15 @@
    "filterable": 0
   },
   {
+   "key": "taiee96",
+   "name": "taiee96",
+   "type": 1,
+   "api": "https://ww96.taiee.xyz/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+  {
    "key": "大师兄影视",
    "name": "大师兄影视",
    "type": 1,
@@ -470,10 +488,19 @@
    "filterable": 0
   },
   {
-   "key": "极速零一",
-   "name": "极速┃零一",
+   "key": "茅台资源",
+   "name": "茅台资源",
    "type": 1,
-   "api": "https://ww96.taiee.xyz/api.php/provide/vod",
+   "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+  {
+   "key": "茅台资源站",
+   "name": "茅台资源站",
+   "type": 1,
+   "api": "https://mtzy5.com/api.php/provide/vod",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0
@@ -490,5 +517,5 @@
  "flags": [],
  "spider": "",
  "logo": "",
- "version": "202611120533"
+ "version": "202611130533"
 }
