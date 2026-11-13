@@ -164,6 +164,15 @@
    "filterable": 0
   },
   {
+   "key": "桃花资源采集网采集接口",
+   "name": "桃花资源采集网采集接口",
+   "type": 1,
+   "api": "https://thzy1.me/api.php/provide/vod/at/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+  {
    "key": "6非凡",
    "name": "6-非凡",
    "type": 1,
@@ -209,10 +218,28 @@
    "filterable": 0
   },
   {
+   "key": "haihua",
+   "name": "haihua",
+   "type": 1,
+   "api": "https://hhzyapi.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+  {
    "key": "hongniu3",
    "name": "hongniu3",
    "type": 1,
    "api": "https://hongniuzy3.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+  {
+   "key": "jiangyu",
+   "name": "jiangyu",
+   "type": 1,
+   "api": "https://jyzyapi.com/provide/vod",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0
@@ -254,8 +281,8 @@
    "filterable": 0
   },
   {
-   "key": "极速资源",
-   "name": "极速资源",
+   "key": "极速",
+   "name": "极速",
    "type": 1,
    "api": "https://jszyapi.com/api.php/provide/vod",
    "searchable": 1,
@@ -272,17 +299,8 @@
    "filterable": 0
   },
   {
-   "key": "火狐2K有广",
-   "name": "火狐2K┃有广",
-   "type": 1,
-   "api": "https://hhzyapi.com/api.php/provide/vod",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0
-  },
-  {
-   "key": "红牛",
-   "name": "红牛",
+   "key": "红牛资源",
+   "name": "红牛资源",
    "type": 1,
    "api": "https://hongniuzy2.com/api.php/provide/vod",
    "searchable": 1,
@@ -321,15 +339,6 @@
    "name": "速播资源站",
    "type": 1,
    "api": "https://subocj.com/api.php/provide/vod",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0
-  },
-  {
-   "key": "金鹰资源",
-   "name": "金鹰资源",
-   "type": 1,
-   "api": "https://jyzyapi.com/provide/vod",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0
@@ -389,8 +398,8 @@
    "filterable": 0
   },
   {
-   "key": "360",
-   "name": "360",
+   "key": "360资源",
+   "name": "360资源",
    "type": 1,
    "api": "https://360zy.com/api.php/provide/vod",
    "searchable": 1,
@@ -517,5 +526,5 @@
  "flags": [],
  "spider": "",
  "logo": "",
- "version": "202611130533"
+ "version": "202611140533"
 }
