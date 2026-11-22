@@ -2,10 +2,10 @@
  "wallpaper": "",
  "sites": [
   {
-   "key": "19量子",
-   "name": "19-量子",
+   "key": "暴风资源2",
+   "name": "暴风资源2",
    "type": 1,
-   "api": "https://lzizy.net/api.php/provide/vod",
+   "api": "http://bf.xoxowin86cisyap.com/api.php/provide/vod",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0
@@ -42,33 +42,6 @@
    "name": "cms_bfzy2",
    "type": 1,
    "api": "https://bfzy2.tv/api.php/provide/vod",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0
-  },
-  {
-   "key": "暴风资源2",
-   "name": "暴风资源2",
-   "type": 1,
-   "api": "http://bf.xoxowin86cisyap.com/api.php/provide/vod",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0
-  },
-  {
-   "key": "66360",
-   "name": "66-360*",
-   "type": 1,
-   "api": "https://360zy.tv/api.php/provide/vod",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0
-  },
-  {
-   "key": "360资源",
-   "name": "360资源",
-   "type": 1,
-   "api": "https://360zy.com/api.php/provide/vod",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0
@@ -137,10 +110,28 @@
    "filterable": 0
   },
   {
+   "key": "19量子",
+   "name": "19-量子",
+   "type": 1,
+   "api": "https://lzizy.net/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+  {
    "key": "量子资源",
    "name": "量子┃资源",
    "type": 1,
    "api": "https://lzizy1.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+  {
+   "key": "15量子",
+   "name": "15-量子",
+   "type": 1,
+   "api": "https://lzizy8.com/api.php/provide/vod",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0
@@ -522,15 +513,6 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0
-  },
-  {
-   "key": "黄仓",
-   "name": "黄仓",
-   "type": 1,
-   "api": "https://hsckzy888.com/api.php/provide/vod/from/hsckm3u8/at/json",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0
   }
  ],
  "lives": [
@@ -566,5 +548,5 @@
  "flags": [],
  "spider": "",
  "logo": "",
- "version": "202611220810"
+ "version": "202611220821"
 }
