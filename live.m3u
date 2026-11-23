@@ -1,163 +1,155 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CCTV-1" group-title="央视",CCTV-1  [9.51MB/s]
+#EXTINF:-1 tvg-name="CCTV-1" group-title="央视",CCTV-1  [12.90MB/s]
 http://221.7.175.154:8445/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV-2⚠️" group-title="央视",CCTV-2⚠️
 http://118.122.144.115:8888/newlive/live/hls/2/live.m3u8
-#EXTINF:-1 tvg-name="CCTV-3" group-title="央视",CCTV-3  [10.85MB/s]
-http://113.57.140.161:10081/newlive/live/hls/3/live.m3u8
-#EXTINF:-1 tvg-name="CCTV-4" group-title="央视",CCTV-4  [2.06MB/s]
-http://119.39.9.8:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="CCTV-5" group-title="央视",CCTV-5  [10.43MB/s]
+#EXTINF:-1 tvg-name="CCTV-3" group-title="央视",CCTV-3  [0.72MB/s]
+http://118.122.144.115:8888/newlive/live/hls/3/live.m3u8
+#EXTINF:-1 tvg-name="CCTV-4" group-title="央视",CCTV-4  [8.42MB/s]
+http://221.7.175.154:8445/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-5" group-title="央视",CCTV-5  [10.01MB/s]
 http://221.7.175.154:8445/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV-5+" group-title="央视",CCTV-5+  [2.65MB/s]
-http://118.122.144.115:8888/newlive/live/hls/16/live.m3u8
-#EXTINF:-1 tvg-name="CCTV-6" group-title="央视",CCTV-6  [7.63MB/s]
+#EXTINF:-1 tvg-name="CCTV-5+" group-title="央视",CCTV-5+  [4.32MB/s]
+http://120.238.94.82:9901/tsfile/live/1030_1.m3u8
+#EXTINF:-1 tvg-name="CCTV-6" group-title="央视",CCTV-6  [6.62MB/s]
 http://222.223.41.27:8888/hls/6/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-7" group-title="央视",CCTV-7  [11.25MB/s]
+#EXTINF:-1 tvg-name="CCTV-7" group-title="央视",CCTV-7  [8.74MB/s]
 http://221.7.175.154:8445/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV-8" group-title="央视",CCTV-8  [6.95MB/s]
+#EXTINF:-1 tvg-name="CCTV-8" group-title="央视",CCTV-8  [2.53MB/s]
 http://153.0.171.163:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV-9" group-title="央视",CCTV-9  [12.40MB/s]
-http://113.57.140.161:10081/newlive/live/hls/10/live.m3u8
-#EXTINF:-1 tvg-name="CCTV-10" group-title="央视",CCTV-10  [7.14MB/s]
-http://153.0.171.163:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV-11" group-title="央视",CCTV-11  [10.06MB/s]
-http://113.57.140.161:10081/newlive/live/hls/12/live.m3u8
-#EXTINF:-1 tvg-name="CCTV-12" group-title="央视",CCTV-12  [13.29MB/s]
-http://113.57.140.161:10081/newlive/live/hls/13/live.m3u8
-#EXTINF:-1 tvg-name="CCTV-13" group-title="央视",CCTV-13  [10.21MB/s]
+#EXTINF:-1 tvg-name="CCTV-9" group-title="央视",CCTV-9  [8.44MB/s]
+http://221.7.175.154:8445/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-10" group-title="央视",CCTV-10  [8.20MB/s]
+http://221.7.175.154:8445/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-11" group-title="央视",CCTV-11  [6.60MB/s]
+http://120.40.39.246:352/newlive/live/hls/12/live.m3u8
+#EXTINF:-1 tvg-name="CCTV-12" group-title="央视",CCTV-12  [7.90MB/s]
+http://221.7.175.154:8445/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-13" group-title="央视",CCTV-13  [10.62MB/s]
 http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
-#EXTINF:-1 tvg-name="CCTV-14" group-title="央视",CCTV-14  [12.07MB/s]
-http://113.57.140.161:10081/newlive/live/hls/15/live.m3u8
-#EXTINF:-1 tvg-name="CCTV-15" group-title="央视",CCTV-15  [11.12MB/s]
-http://113.57.140.161:10081/newlive/live/hls/16/live.m3u8
-#EXTINF:-1 tvg-name="CCTV-16" group-title="央视",CCTV-16  [8.82MB/s]
+#EXTINF:-1 tvg-name="CCTV-14" group-title="央视",CCTV-14  [7.80MB/s]
+https://event.pull.hebtv.com/jishi/cp2.m3u8
+#EXTINF:-1 tvg-name="CCTV-15" group-title="央视",CCTV-15  [8.16MB/s]
+http://120.40.39.246:352/newlive/live/hls/16/live.m3u8
+#EXTINF:-1 tvg-name="CCTV-16" group-title="央视",CCTV-16  [8.21MB/s]
 http://112.27.5.218:9901/tsfile/live/faacts/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV-17" group-title="央视",CCTV-17  [11.38MB/s]
+#EXTINF:-1 tvg-name="CCTV-17" group-title="央视",CCTV-17  [8.75MB/s]
 http://221.7.175.154:8445/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CGTN" group-title="央视",CGTN  [25.31MB/s]
 http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
-#EXTINF:-1 tvg-name="Chifeng Comprehensive News Chanel" group-title="其他",Chifeng Comprehensive News Chanel  [3.35MB/s]
+#EXTINF:-1 tvg-name="Chifeng Comprehensive News Chanel" group-title="其他",Chifeng Comprehensive News Chanel  [3.68MB/s]
 http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
-#EXTINF:-1 tvg-name="Chuxiong News Channel" group-title="其他",Chuxiong News Channel  [5.12MB/s]
+#EXTINF:-1 tvg-name="Chuxiong News Channel" group-title="其他",Chuxiong News Channel  [4.86MB/s]
 http://hwapi.yntv.net/ew265l/848y54.m3u8
-#EXTINF:-1 tvg-name="Guangxi Variety & Travel Channel" group-title="其他",Guangxi Variety & Travel Channel  [3.33MB/s]
+#EXTINF:-1 tvg-name="Guangxi Variety & Travel Channel" group-title="其他",Guangxi Variety & Travel Channel  [6.44MB/s]
 http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1
-#EXTINF:-1 tvg-name="Kangba TV" group-title="其他",Kangba TV  [0.92MB/s]
+#EXTINF:-1 tvg-name="Kangba TV" group-title="其他",Kangba TV  [0.76MB/s]
 http://110.185.237.164:8888/hls/30/index.m3u8
-#EXTINF:-1 tvg-name="QTV-1" group-title="其他",QTV-1  [3.24MB/s]
+#EXTINF:-1 tvg-name="QTV-1" group-title="其他",QTV-1  [3.27MB/s]
 http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
-#EXTINF:-1 tvg-name="QTV-2" group-title="其他",QTV-2  [2.78MB/s]
+#EXTINF:-1 tvg-name="QTV-2" group-title="其他",QTV-2  [3.37MB/s]
 http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
-#EXTINF:-1 tvg-name="QTV-3" group-title="其他",QTV-3  [2.68MB/s]
+#EXTINF:-1 tvg-name="QTV-3" group-title="其他",QTV-3  [3.56MB/s]
 http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
-#EXTINF:-1 tvg-name="QTV-4" group-title="其他",QTV-4  [2.79MB/s]
+#EXTINF:-1 tvg-name="QTV-4" group-title="其他",QTV-4  [3.45MB/s]
 http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
-#EXTINF:-1 tvg-name="QTV-5" group-title="其他",QTV-5  [2.69MB/s]
+#EXTINF:-1 tvg-name="QTV-5" group-title="其他",QTV-5  [3.99MB/s]
 http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
-#EXTINF:-1 tvg-name="QTV-6" group-title="其他",QTV-6  [4.11MB/s]
-http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
 #EXTINF:-1 tvg-name="Siping TV" group-title="其他",Siping TV  [0.72MB/s]
 http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
-#EXTINF:-1 tvg-name="Xinjiang TV 2" group-title="其他",Xinjiang TV 2  [4.39MB/s]
-https://hls.quklive.com/live/play-sh-21.quklive.com/1777511615189085.m3u8?auth_key=2092871636-a39d8614688744d0b170b856b086ba80-0-33900446b83fa0b5befeb6bedbcd51a0
-#EXTINF:-1 tvg-name="Xinjiang TV 3" group-title="其他",Xinjiang TV 3  [3.08MB/s]
-http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8
-#EXTINF:-1 tvg-name="东南卫视" group-title="卫视",东南卫视  [11.71MB/s]
-http://113.57.140.161:10081/newlive/live/hls/20/live.m3u8
-#EXTINF:-1 tvg-name="东方卫视" group-title="卫视",东方卫视  [12.76MB/s]
+#EXTINF:-1 tvg-name="Xinjiang TV 3" group-title="其他",Xinjiang TV 3  [1.58MB/s]
+http://120.70.60.179:9901/tsfile/live/1006_1.m3u8?authid=0&key=txiptv&playlive=1
+#EXTINF:-1 tvg-name="东南卫视" group-title="卫视",东南卫视  [3.96MB/s]
+http://60.187.246.34:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="东方卫视" group-title="卫视",东方卫视  [11.30MB/s]
 http://221.7.175.154:8445/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="之江纪录" group-title="其他",之江纪录  [9.27MB/s]
+#EXTINF:-1 tvg-name="之江纪录" group-title="其他",之江纪录  [7.44MB/s]
 http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 tvg-name="云南卫视" group-title="卫视",云南卫视  [1.81MB/s]
+#EXTINF:-1 tvg-name="云南卫视" group-title="卫视",云南卫视  [1.70MB/s]
 http://119.39.9.8:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="人间卫视" group-title="卫视",人间卫视  [1.51MB/s]
+#EXTINF:-1 tvg-name="人间卫视" group-title="卫视",人间卫视  [1.40MB/s]
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-#EXTINF:-1 tvg-name="兵团卫视" group-title="卫视",兵团卫视  [7.80MB/s]
+#EXTINF:-1 tvg-name="兵团卫视" group-title="卫视",兵团卫视  [8.46MB/s]
 http://221.7.175.154:8445/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视",内蒙古卫视  [6.26MB/s]
 http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
-#EXTINF:-1 tvg-name="凤凰卫视" group-title="卫视",凤凰卫视  [10.58MB/s]
-http://221.7.175.154:8445/tsfile/live/1020_1.m3u8
-#EXTINF:-1 tvg-name="北京卫视" group-title="卫视",北京卫视  [9.97MB/s]
-http://120.237.39.10:9901/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="厦门卫视" group-title="卫视",厦门卫视  [12.95MB/s]
-http://113.57.140.161:10081/newlive/live/hls/28/live.m3u8
-#EXTINF:-1 tvg-name="吉林卫视" group-title="卫视",吉林卫视  [14.23MB/s]
+#EXTINF:-1 tvg-name="凤凰卫视" group-title="卫视",凤凰卫视  [11.23MB/s]
+http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="北京卫视" group-title="卫视",北京卫视  [5.11MB/s]
+http://120.211.62.180:8000/hls/35/index.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" group-title="卫视",吉林卫视  [11.84MB/s]
 http://221.7.175.154:8445/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="四川卫视" group-title="卫视",四川卫视  [10.29MB/s]
+#EXTINF:-1 tvg-name="四川卫视" group-title="卫视",四川卫视  [11.86MB/s]
 http://221.7.175.154:8445/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="天津卫视" group-title="卫视",天津卫视  [11.03MB/s]
+#EXTINF:-1 tvg-name="天津卫视" group-title="卫视",天津卫视  [10.64MB/s]
 http://221.7.175.154:8445/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="宁夏卫视" group-title="卫视",宁夏卫视  [4.46MB/s]
+#EXTINF:-1 tvg-name="宁夏卫视" group-title="卫视",宁夏卫视  [4.30MB/s]
 http://222.71.55.147:85/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="安多卫视" group-title="卫视",安多卫视  [0.86MB/s]
+#EXTINF:-1 tvg-name="安多卫视" group-title="卫视",安多卫视  [0.88MB/s]
 https://liveout.xntv.tv/a65jur/96iln2.m3u8
-#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视",安徽卫视  [3.86MB/s]
+#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视",安徽卫视  [3.88MB/s]
 http://123.138.216.44:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="山东卫视" group-title="卫视",山东卫视  [8.02MB/s]
+#EXTINF:-1 tvg-name="山东卫视" group-title="卫视",山东卫视  [8.22MB/s]
 http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-#EXTINF:-1 tvg-name="山西卫视" group-title="卫视",山西卫视  [4.86MB/s]
-http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
-#EXTINF:-1 tvg-name="峨眉电影" group-title="其他",峨眉电影  [2.94MB/s]
+#EXTINF:-1 tvg-name="山西卫视" group-title="卫视",山西卫视  [6.21MB/s]
+http://58.56.162.102:4466/newlive/live/hls/32/live.m3u8
+#EXTINF:-1 tvg-name="峨眉电影" group-title="其他",峨眉电影  [1.53MB/s]
 http://118.122.144.115:8888/newlive/live/hls/32/live.m3u8
-#EXTINF:-1 tvg-name="广东卫视" group-title="卫视",广东卫视  [3.57MB/s]
-http://113.57.140.161:10081/newlive/live/hls/34/live.m3u8
-#EXTINF:-1 tvg-name="广西卫视" group-title="卫视",广西卫视  [9.15MB/s]
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视",广东卫视  [11.82MB/s]
+http://221.7.175.154:8445/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广西卫视" group-title="卫视",广西卫视  [9.21MB/s]
 http://221.7.175.154:8445/tsfile/live/0113_2.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="延边卫视" group-title="卫视",延边卫视  [18.68MB/s]
 https://srs.iyb983.cn/video/CYS/index.m3u8
-#EXTINF:-1 tvg-name="文化旅游" group-title="其他",文化旅游  [2.30MB/s]
+#EXTINF:-1 tvg-name="文化旅游" group-title="其他",文化旅游  [0.86MB/s]
 http://118.122.144.115:8888/newlive/live/hls/34/live.m3u8
-#EXTINF:-1 tvg-name="新疆卫视" group-title="卫视",新疆卫视  [5.50MB/s]
-http://120.198.86.186:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视",江苏卫视  [12.49MB/s]
+#EXTINF:-1 tvg-name="新疆卫视" group-title="卫视",新疆卫视  [2.90MB/s]
+http://222.71.55.147:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视",江苏卫视  [11.52MB/s]
 http://221.7.175.154:8445/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="江西卫视" group-title="卫视",江西卫视  [2.18MB/s]
-http://119.39.9.8:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="河北卫视" group-title="卫视",河北卫视  [8.75MB/s]
+#EXTINF:-1 tvg-name="江西卫视" group-title="卫视",江西卫视  [8.57MB/s]
+http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河北卫视" group-title="卫视",河北卫视  [13.02MB/s]
 http://221.7.175.154:8445/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="河南卫视" group-title="卫视",河南卫视  [14.46MB/s]
-http://120.237.39.10:9901/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视",浙江卫视  [8.55MB/s]
+#EXTINF:-1 tvg-name="河南卫视" group-title="卫视",河南卫视  [10.15MB/s]
+http://221.7.175.154:8445/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视",浙江卫视  [6.77MB/s]
 http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
-#EXTINF:-1 tvg-name="浙江国际" group-title="其他",浙江国际  [5.60MB/s]
-https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江少儿" group-title="其他",浙江少儿  [6.06MB/s]
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
-#EXTINF:-1 tvg-name="浙江教科" group-title="其他",浙江教科  [9.17MB/s]
+#EXTINF:-1 tvg-name="浙江国际" group-title="其他",浙江国际  [5.09MB/s]
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?
+#EXTINF:-1 tvg-name="浙江少儿" group-title="其他",浙江少儿  [7.56MB/s]
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江教科" group-title="其他",浙江教科  [9.67MB/s]
 http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江新闻" group-title="其他",浙江新闻  [6.60MB/s]
+#EXTINF:-1 tvg-name="浙江新闻" group-title="其他",浙江新闻  [6.93MB/s]
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
-#EXTINF:-1 tvg-name="浙江民生" group-title="其他",浙江民生  [9.33MB/s]
+#EXTINF:-1 tvg-name="浙江民生" group-title="其他",浙江民生  [8.83MB/s]
 http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江经济" group-title="其他",浙江经济  [6.71MB/s]
+#EXTINF:-1 tvg-name="浙江经济" group-title="其他",浙江经济  [7.16MB/s]
 http://ali-m-l.cztv.com/channels/lantian/channel03/720p.m3u8
-#EXTINF:-1 tvg-name="浙江钱江" group-title="其他",浙江钱江  [6.57MB/s]
+#EXTINF:-1 tvg-name="浙江钱江" group-title="其他",浙江钱江  [6.65MB/s]
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?
-#EXTINF:-1 tvg-name="海南卫视" group-title="卫视",海南卫视  [2.03MB/s]
-http://fuxin.yunjifei.top:999/tsfile/live/1010_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视",深圳卫视  [9.30MB/s]
-http://113.57.140.161:10081/newlive/live/hls/37/live.m3u8
-#EXTINF:-1 tvg-name="湖北卫视" group-title="卫视",湖北卫视  [9.81MB/s]
-http://113.57.140.161:10081/newlive/live/hls/36/live.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视",湖南卫视  [14.41MB/s]
-http://221.7.175.154:8445/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="甘肃卫视" group-title="卫视",甘肃卫视  [2.07MB/s]
+#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视",深圳卫视  [6.83MB/s]
+http://120.238.94.82:9901/tsfile/live/1065_1.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" group-title="卫视",湖北卫视  [7.55MB/s]
+http://120.40.39.246:352/newlive/live/hls/36/live.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视",湖南卫视  [12.82MB/s]
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视" group-title="卫视",甘肃卫视  [4.82MB/s]
 https://live.gstv.com.cn/live/oxfhvoy.m3u8
-#EXTINF:-1 tvg-name="西藏卫视" group-title="卫视",西藏卫视  [11.56MB/s]
+#EXTINF:-1 tvg-name="西藏卫视" group-title="卫视",西藏卫视  [11.55MB/s]
 http://221.7.175.154:8445/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="贵州卫视" group-title="卫视",贵州卫视  [3.25MB/s]
-http://gfr.x3322.net:9901/tsfile/live/1100_1.m3u8
-#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视",辽宁卫视  [10.54MB/s]
-http://221.7.175.154:8445/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="重庆卫视" group-title="卫视",重庆卫视  [12.40MB/s]
-http://221.7.175.154:8445/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="金鹰卡通" group-title="其他",金鹰卡通  [0.97MB/s]
+#EXTINF:-1 tvg-name="贵州卫视" group-title="卫视",贵州卫视  [0.99MB/s]
+http://58.56.162.102:4466/newlive/live/hls/41/live.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视",辽宁卫视  [11.35MB/s]
+http://111.59.24.227:8181/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="重庆卫视" group-title="卫视",重庆卫视  [19.70MB/s]
+http://58.56.162.102:4466/newlive/live/hls/23/live.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" group-title="其他",金鹰卡通  [2.61MB/s]
 http://118.122.144.115:8888/newlive/live/hls/40/live.m3u8
-#EXTINF:-1 tvg-name="陕西卫视" group-title="卫视",陕西卫视  [3.61MB/s]
+#EXTINF:-1 tvg-name="陕西卫视" group-title="卫视",陕西卫视  [1.57MB/s]
 http://222.71.55.147:85/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="青海卫视" group-title="卫视",青海卫视  [1.57MB/s]
+#EXTINF:-1 tvg-name="青海卫视" group-title="卫视",青海卫视  [1.40MB/s]
 http://120.238.84.45:9901/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视",黑龙江卫视  [6.13MB/s]
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视",黑龙江卫视  [5.65MB/s]
 http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
