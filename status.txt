@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-11-24 05:46:30 CST",
-  "version": "202611240532",
-  "sites": 58,
+  "synced_at": "2026-11-25 05:45:03 CST",
+  "version": "202611250532",
+  "sites": 57,
   "source": "NAS trim-a22c / 192.168.1.194",
   "channels": [
     "Tailscale Funnel",
